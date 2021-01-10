@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EzyFood</string>
+    <string name="myorder">My Order</string>
+    <string name="drink">Drinks</string>
+    <string name="snack">Snacks</string>
+    <string name="food">Foods</string>
+    <string name="topup">TopUp</string>
+    <string name="ordermore">Order More</string>
+    <string name="confirm">Confirm</string>
+    <string name="total">Total</string>
+    <string name="paynow">Pay now</string>
+    <string name="hapus">Hapus</string>
+    <string name="menu_utama">Menu Utama</string>
+    <string name="ordercomplete"> Your Order Completed Thank you!</string>
+    <string name="api_key"></string>
+</resources>
